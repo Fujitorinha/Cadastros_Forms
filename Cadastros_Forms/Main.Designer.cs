@@ -47,7 +47,7 @@ namespace Cadastros_Forms
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(33, 128);
+            this.button2.Location = new System.Drawing.Point(33, 133);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(165, 63);
             this.button2.TabIndex = 1;
@@ -57,7 +57,7 @@ namespace Cadastros_Forms
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(33, 244);
+            this.button3.Location = new System.Drawing.Point(33, 243);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(165, 63);
             this.button3.TabIndex = 2;
@@ -69,7 +69,7 @@ namespace Cadastros_Forms
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.button4.Location = new System.Drawing.Point(273, 100);
+            this.button4.Location = new System.Drawing.Point(273, 101);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(262, 117);
             this.button4.TabIndex = 3;

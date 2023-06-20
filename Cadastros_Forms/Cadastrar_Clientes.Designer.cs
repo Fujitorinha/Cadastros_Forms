@@ -68,7 +68,6 @@ namespace Cadastros_Forms
             this.label_Nome.Size = new System.Drawing.Size(60, 22);
             this.label_Nome.TabIndex = 0;
             this.label_Nome.Text = "Nome:";
-            this.label_Nome.Click += new System.EventHandler(this.label_Nome_Click);
             // 
             // textBox1
             // 
@@ -76,7 +75,6 @@ namespace Cadastros_Forms
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(213, 20);
             this.textBox1.TabIndex = 1;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -87,7 +85,6 @@ namespace Cadastros_Forms
             this.label1.Size = new System.Drawing.Size(50, 22);
             this.label1.TabIndex = 2;
             this.label1.Text = "CPF:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox2
             // 
@@ -95,7 +92,6 @@ namespace Cadastros_Forms
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(213, 20);
             this.textBox2.TabIndex = 3;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label2
             // 
@@ -106,7 +102,6 @@ namespace Cadastros_Forms
             this.label2.Size = new System.Drawing.Size(40, 22);
             this.label2.TabIndex = 4;
             this.label2.Text = "RG:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox3
             // 
@@ -114,7 +109,6 @@ namespace Cadastros_Forms
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(213, 20);
             this.textBox3.TabIndex = 5;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label3
             // 
@@ -125,7 +119,6 @@ namespace Cadastros_Forms
             this.label3.Size = new System.Drawing.Size(100, 22);
             this.label3.TabIndex = 6;
             this.label3.Text = "Telefone:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox4
             // 
@@ -133,7 +126,6 @@ namespace Cadastros_Forms
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(213, 20);
             this.textBox4.TabIndex = 7;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
             // 
@@ -141,7 +133,6 @@ namespace Cadastros_Forms
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(213, 20);
             this.textBox5.TabIndex = 9;
-            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // label4
             // 
@@ -152,7 +143,6 @@ namespace Cadastros_Forms
             this.label4.Size = new System.Drawing.Size(80, 22);
             this.label4.TabIndex = 8;
             this.label4.Text = "E-mail:";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // textBox6
             // 
@@ -160,7 +150,6 @@ namespace Cadastros_Forms
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(213, 20);
             this.textBox6.TabIndex = 11;
-            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // label5
             // 
@@ -171,7 +160,6 @@ namespace Cadastros_Forms
             this.label5.Size = new System.Drawing.Size(120, 22);
             this.label5.TabIndex = 10;
             this.label5.Text = "Nascimento:";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // textBox7
             // 
@@ -179,7 +167,6 @@ namespace Cadastros_Forms
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(213, 20);
             this.textBox7.TabIndex = 13;
-            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // label6
             // 
@@ -190,7 +177,6 @@ namespace Cadastros_Forms
             this.label6.Size = new System.Drawing.Size(100, 22);
             this.label6.TabIndex = 12;
             this.label6.Text = "Endereço:";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
@@ -201,7 +187,6 @@ namespace Cadastros_Forms
             this.label7.Size = new System.Drawing.Size(80, 22);
             this.label7.TabIndex = 14;
             this.label7.Text = "Número:";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // textBox8
             // 
@@ -209,7 +194,6 @@ namespace Cadastros_Forms
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(213, 20);
             this.textBox8.TabIndex = 15;
-            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // label8
             // 
@@ -220,7 +204,6 @@ namespace Cadastros_Forms
             this.label8.Size = new System.Drawing.Size(130, 22);
             this.label8.TabIndex = 16;
             this.label8.Text = "Complemento:";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // textBox9
             // 
@@ -228,7 +211,6 @@ namespace Cadastros_Forms
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(213, 20);
             this.textBox9.TabIndex = 17;
-            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // textBox10
             // 
@@ -236,7 +218,6 @@ namespace Cadastros_Forms
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(213, 20);
             this.textBox10.TabIndex = 18;
-            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // label9
             // 
@@ -247,7 +228,6 @@ namespace Cadastros_Forms
             this.label9.Size = new System.Drawing.Size(80, 22);
             this.label9.TabIndex = 19;
             this.label9.Text = "Estado:";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // label10
             // 
@@ -258,7 +238,6 @@ namespace Cadastros_Forms
             this.label10.Size = new System.Drawing.Size(80, 22);
             this.label10.TabIndex = 20;
             this.label10.Text = "Cidade:";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // textBox11
             // 
@@ -266,7 +245,6 @@ namespace Cadastros_Forms
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(213, 20);
             this.textBox11.TabIndex = 21;
-            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // label11
             // 
@@ -354,7 +332,6 @@ namespace Cadastros_Forms
             this.Controls.Add(this.label_Nome);
             this.Name = "Cadastrar_Clientes";
             this.Text = "Cadastrar Clientes";
-            this.Load += new System.EventHandler(this.Cadastrar_Clientes_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
